@@ -2,6 +2,9 @@
 #open this link##
 https://ecommerce-frontend-nine-ashy.vercel.app/
 
+##Admin Panel ##
+https://ecommerce-admin-flame-three.vercel.app/
+
 
 # 🛒 Ecommerce App
 
